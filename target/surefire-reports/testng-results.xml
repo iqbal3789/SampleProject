@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-28T09:02:04 IST" name="Suite" finished-at="2023-09-28T09:02:09 IST" duration-ms="4869">
+    <groups>
+    </groups>
+    <test started-at="2023-09-28T09:02:04 IST" name="Test" finished-at="2023-09-28T09:02:09 IST" duration-ms="4869">
+      <class name="com.testNG.SampleCmd">
+        <test-method signature="tc1()[pri:0, instance:com.testNG.SampleCmd@5e0826e7]" started-at="2023-09-28T09:02:04 IST" name="tc1" finished-at="2023-09-28T09:02:09 IST" duration-ms="4819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- com.testNG.SampleCmd -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
